@@ -1,3 +1,8 @@
+@font-face {
+    font-family:Poppins-Black;
+    src: url(Poppins-Black.ttf);
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -16,10 +21,11 @@ body{
     text-align: center;
     margin: 0;
     padding: 0;
-    font-family:Poppins;
-    color: red;
+    font-family:Poppins-Black;
+    color: #fff;
     font-size: 4.5em;
 }
 .banner-area h2 span{
     color: red;
+    font-family:Poppins-Black;
 }
