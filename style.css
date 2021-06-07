@@ -13,12 +13,7 @@ body{
     height: 100 vh;
 }
 .banner-area h2{
-    position: absolute;
-    top: 50%;
-    left: 50%
-    transform: translate(-50%,-50%);
-    with: 50%;
-    text-align: center;
+    text-align: left;
     margin: 0;
     padding: 0;
     font-family:Poppins-LightItalic;
